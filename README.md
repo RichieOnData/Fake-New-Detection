@@ -1,0 +1,3 @@
+Detecting Fake News: A Machine Learning Approach
+
+This project tackles the growing threat of misinformation by leveraging machine learning models to classify news as real or fake. Using the ISOT Fake News Dataset, it explores a variety of algorithms including Logistic Regression, Random Forest, Gradient Boosting, and XGBoost — with XGBoost emerging as the top performer. The solution features TF-IDF vectorization, Intel-optimized code, and thorough model evaluation using precision, recall, F1-score, and ROC-AUC. Future work will include testing additional models and vectorizers, optimizing hyperparameters, and expanding to diverse datasets.
